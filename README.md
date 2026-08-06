@@ -1,4 +1,4 @@
-<p align="center">she/it 🏳️‍⚧️🏳️‍🌈</p>
+<p align="center">she/it 🏳️‍⚧️🏳️‍🌈 | I am attempting to move a majority of my source code to <a href="https://codeberg.org/suprstarrd">Codeberg</a>.</p>
 
 ## Major ongoing projects
 * I help write documentation and plan ideas for [SideStore](https://sidestore.io) ([source](https://github.com/SideStore)), an alternative iOS/iPadOS app store for seamless sideloading. No jailbreak needed, and no computer after the initial install, only a Wi-Fi connection.
